@@ -1,0 +1,7 @@
+train: C:/Users/hp/OneDrive/Documents/Desktop/ConsSS/construction_safety_yolo/dataset/train/images
+val: C:/Users/hp/OneDrive/Documents/Desktop/ConsSS/construction_safety_yolo/dataset/test/images
+
+nc: 3
+names: ["Hardhat", "No-Hardhat", "Vest"]
+# python scripts/live_detect.py(to run the camera live detection)
+
