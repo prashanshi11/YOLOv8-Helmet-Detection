@@ -132,6 +132,7 @@ if heads > helmets:
 **Prashanshi Yadav**
 📫 **Email**: [prashanshiyadav.dev@gmail.com](mailto:prashanshi674@gmail.com)
 🔗 **GitHub**: [github.com/prashanshi11](https://github.com/prashanshi11)
-📸 **Project Video**: *Coming soon...*
+📸 **Project Video**:https://www.linkedin.com/posts/prashanshi_machinelearning-computervision-yolov8-activity-7341694858056658944-tmDO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD2-DKMB2mzbi7yGhAg37zLCWTnlVB7eKX0
+
 
 ---
