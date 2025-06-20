@@ -1,0 +1,15 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+
+# Ignore model weights and outputs
+*.pt
+runs/
+
+# Ignore zip files and archives
+*.zip
+
+# Ignore OS or IDE-specific files
+.DS_Store
+.env
+.vscode/
