@@ -1,5 +1,6 @@
 # 🦺 Construction Safety Helmet Detection using YOLOv8
 
+
 This project implements a **real-time helmet detection system** using **YOLOv8** to monitor safety on construction sites. It identifies whether workers are wearing helmets and safety vests through a live webcam feed and raises alerts when violations are detected.
 
 ---
